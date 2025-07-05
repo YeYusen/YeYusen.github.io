@@ -16,7 +16,7 @@ classes: wide              # full-width; drops sidebar
 
 Recent Thoughts
 ------
-天天被馒头花卷凌晨两点半叫起来喂饭...人要没了...
+再也不该吃那么多咖喱了。撑得感觉好难受，哭哭了。
 
 让我试试$$\LaTeX$$!
 ------
