@@ -16,7 +16,7 @@ classes: wide              # full-width; drops sidebar
 
 Recent Thoughts
 ------
-再也不该吃那么多咖喱了。撑得感觉好难受，哭哭了。
+秋天闯进了我的生活。😠
 
 让我试试$$\LaTeX$$!
 ------
